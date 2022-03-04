@@ -48,40 +48,40 @@
             <div class="swiper-wrapper" id="sync1">
               <swiper :options="swiperOptions">
                 <swiper-slide>
-              <div class="item">
-                <div class="testimonials-one__single" data-thumb-img="images/testi-1-1.jpg">
-                  <p class="testimonials-one__text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum eu fugiat nulla pariatur.</p><!-- /.testimonials-one__text -->
-                  <div class="testimonials-one__bottom">
-                    <h3 class="testimonials-one__title">Jona Leisey</h3><!-- /.testimonials-one__title -->
-                    <div class="testimonials-one__sep">.</div><!-- /.testimonials-one__sep -->
-                    <p class="testimonials-one__designation">CEO Lums</p><!-- /.testimonials-one__designation -->
-                  </div><!-- /.testimonials-one__bottom -->
-                </div><!-- /.testimonials-one__single -->
-              </div><!-- /.item -->
+                  <div class="item">
+                    <div class="testimonials-one__single" data-thumb-img="images/testi-1-1.jpg">
+                      <p class="testimonials-one__text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum eu fugiat nulla pariatur.</p><!-- /.testimonials-one__text -->
+                      <div class="testimonials-one__bottom">
+                        <h3 class="testimonials-one__title">Jona Leisey</h3><!-- /.testimonials-one__title -->
+                        <div class="testimonials-one__sep">.</div><!-- /.testimonials-one__sep -->
+                        <p class="testimonials-one__designation">CEO Lums</p><!-- /.testimonials-one__designation -->
+                      </div><!-- /.testimonials-one__bottom -->
+                    </div><!-- /.testimonials-one__single -->
+                  </div><!-- /.item -->
                 </swiper-slide>
                 <swiper-slide>
-              <div class="item">
-                <div class="testimonials-one__single" data-thumb-img="images/testi-1-2.jpg">
-                  <p class="testimonials-one__text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum eu fugiat nulla pariatur.</p><!-- /.testimonials-one__text -->
-                  <div class="testimonials-one__bottom">
-                    <h3 class="testimonials-one__title">Chas Samul</h3><!-- /.testimonials-one__title -->
-                    <div class="testimonials-one__sep">.</div><!-- /.testimonials-one__sep -->
-                    <p class="testimonials-one__designation">CEO Lums</p><!-- /.testimonials-one__designation -->
-                  </div><!-- /.testimonials-one__bottom -->
-                </div><!-- /.testimonials-one__single -->
-              </div><!-- /.item -->
+                  <div class="item">
+                    <div class="testimonials-one__single" data-thumb-img="images/testi-1-2.jpg">
+                      <p class="testimonials-one__text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum eu fugiat nulla pariatur.</p><!-- /.testimonials-one__text -->
+                      <div class="testimonials-one__bottom">
+                        <h3 class="testimonials-one__title">Chas Samul</h3><!-- /.testimonials-one__title -->
+                        <div class="testimonials-one__sep">.</div><!-- /.testimonials-one__sep -->
+                        <p class="testimonials-one__designation">CEO Lums</p><!-- /.testimonials-one__designation -->
+                      </div><!-- /.testimonials-one__bottom -->
+                    </div><!-- /.testimonials-one__single -->
+                  </div><!-- /.item -->
                 </swiper-slide>
                 <swiper-slide>
-              <div class="item">
-                <div class="testimonials-one__single" data-thumb-img="images/testi-1-3.jpg">
-                  <p class="testimonials-one__text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum eu fugiat nulla pariatur.</p><!-- /.testimonials-one__text -->
-                  <div class="testimonials-one__bottom">
-                    <h3 class="testimonials-one__title">Chelsey Pozar</h3><!-- /.testimonials-one__title -->
-                    <div class="testimonials-one__sep">.</div><!-- /.testimonials-one__sep -->
-                    <p class="testimonials-one__designation">CEO Lums</p><!-- /.testimonials-one__designation -->
-                  </div><!-- /.testimonials-one__bottom -->
-                </div><!-- /.testimonials-one__single -->
-              </div><!-- /.item -->
+                  <div class="item">
+                    <div class="testimonials-one__single" data-thumb-img="images/testi-1-3.jpg">
+                      <p class="testimonials-one__text">This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum eu fugiat nulla pariatur.</p><!-- /.testimonials-one__text -->
+                      <div class="testimonials-one__bottom">
+                        <h3 class="testimonials-one__title">Chelsey Pozar</h3><!-- /.testimonials-one__title -->
+                        <div class="testimonials-one__sep">.</div><!-- /.testimonials-one__sep -->
+                        <p class="testimonials-one__designation">CEO Lums</p><!-- /.testimonials-one__designation -->
+                      </div><!-- /.testimonials-one__bottom -->
+                    </div><!-- /.testimonials-one__single -->
+                  </div><!-- /.item -->
                 </swiper-slide>
               </swiper>
             </div><!-- /.owl-carousel owl-theme -->
